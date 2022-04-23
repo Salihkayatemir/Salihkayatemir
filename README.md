@@ -1,5 +1,5 @@
-<img src="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023" align="right">
-<div class="tenor-gif-embed" data-postid="15160023" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023">Monkey Developer GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" align="right">
+<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
 
 # Selam, ben Salih :cloud:
 
