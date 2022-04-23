@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" align="right">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right">
 
 # Selam, ben Salih :cloud:
 
