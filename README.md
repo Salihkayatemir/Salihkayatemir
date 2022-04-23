@@ -5,7 +5,6 @@
 ## • Cyber Security, 
 ## • Software/Developer, 
 ## • Social Media Marketing.
-<br />
 
 ## Benimle İletişime Geç!
 
