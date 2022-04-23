@@ -2,11 +2,10 @@
 
 # Selam, ben Salih :cloud:
 
-## • Cyber Security, Software/Developer, Social Media Marketing.
-
-
-<font color="orange"> Havalı bir söz `<code/>`
-</font>
+## • Cyber Security, 
+## • Software/Developer, 
+## • Social Media Marketing.
+<br />
 
 ## Benimle İletişime Geç!
 
