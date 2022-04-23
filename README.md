@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/kODfowoMLJtti3mXB7/giphy.gif" align="right">
+<img src="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023" align="right">
 
 # Selam, ben Salih :cloud:
 
