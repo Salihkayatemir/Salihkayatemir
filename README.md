@@ -1,5 +1,7 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/541573707337039904)](https://discord.com/users/541573707337039904)
+
 # Selam, ben Salih :cloud:
 
 ### • Cyber Security, Software/Developer, Social Media Marketing olarak hizmet vermekteyim.
