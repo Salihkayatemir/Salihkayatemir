@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right" widht="200" height="200">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/541573707337039904)](https://discord.com/users/541573707337039904)
 
