@@ -1,8 +1,8 @@
+# Selam, ben Salih :cloud:
+
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right" widht="200" height="200">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/541573707337039904)](https://discord.com/users/541573707337039904)
-
-# Selam, ben Salih :cloud:
 
 ### • Cyber Security, Software/Developer, Social Media Marketing olarak hizmet vermekteyim.
 
@@ -10,7 +10,7 @@
 
 [Discord]: https://discord.gg/VyAgqfmH2Y
 [Instagram]: https://instagram.com/salihkayatemir
-E-posta: <a href="mailto:#">salihkayatemir@gmail.com</a>
+### • **E-posta** salihkayatemir@gmail.com
 
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/discord.svg" align="left"/>][Discord]
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][Instagram]
@@ -25,8 +25,6 @@ E-posta: <a href="mailto:#">salihkayatemir@gmail.com</a>
 <br/>
 
 ## Projelerim
-• [İletişim](<a href="mailto:#">salihkayatemir@gmail.com</a>)
-<br/>
 • [Netalancer](https://jobs.netafast.com)
 <br />
 • [Netafast](https://netafast.com)
