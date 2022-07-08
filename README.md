@@ -4,7 +4,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/541573707337039904)](https://discord.com/users/541573707337039904)
 
-### • **`Cyber Security, Software/Developer, Social Media Marketing olarak hizmet vermekteyim.`**
+### • **`Software/Developer, Social Media Marketing, Social Media Managment olarak hizmet vermekteyim.`**
 
 ## Benimle İletişime Geç!
 
