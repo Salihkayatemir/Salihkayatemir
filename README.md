@@ -8,7 +8,7 @@
 
 ## Benimle İletişime Geç!
 
-[Discord]: https://discord.com/users/541573707337039904
+[Discord]: https://discord.gg/ptFxZRBt4t
 [Instagram]: https://instagram.com/salihkayatemir
 [Email]: mailto:salihkayatemir@gmail.com
 ### • **Web Sitesi** https://www.salihkayatemir.cf
