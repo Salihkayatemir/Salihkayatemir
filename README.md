@@ -10,15 +10,16 @@
 
 [Discord]: https://discord.com/users/541573707337039904
 [Instagram]: https://instagram.com/salihkayatemir
-### • **E-posta** salihkayatemir@gmail.com
+[Email]: mailto:salihkayatemir@gmail.com
+### • **Web Sitesi** https://www.salihkayatemir.cf
 
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/discord.svg" align="left"/>][Discord]
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][Instagram]
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@6.23.0/icons/gmail.svg" align="left"/>][Email]
 <br />
 
 ## Kullandığım Diller.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" height="22" width="22"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="22" width="22"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="22" width="22">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="22" width="22">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25" width="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="23" width="23">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="22" width="22">
