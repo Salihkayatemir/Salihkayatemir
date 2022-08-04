@@ -4,7 +4,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/541573707337039904)](https://discord.com/users/541573707337039904)
 
-### • **`Software/Developer, Social Media Marketing, Social Media Managment olarak hizmet vermekteyim.`**
+### • Selam, ben Salih. Ortalama 1 senedir yazılım ve geliştirme ile ilgileniyorum. Sizlere geliştirdiğim projeleri ve dosyalarını tanıtmaktan memnuniyet duyuyorum. Yazılımın yanı sıra 2 senedir Social Media Marketing ve Social Media Managment olarak hizmet vermekteyim. Benimle çalışmak için; salihkayatemir@gmail.com veya https://salihkayatemir.cf/ adresinden sosyal medya hesaplarımla iletişime geçebilirsiniz.
 
 ## Benimle İletişime Geç!
 
