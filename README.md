@@ -37,5 +37,6 @@
 
 <details>
 <summary>:computer: En Çok Kullanılan Diller</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkayatemir&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkayatemir&layout=compact"&theme=radical">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=salihkayatemir&layout=compact">
 </details>  
