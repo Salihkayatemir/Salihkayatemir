@@ -8,9 +8,9 @@
 > • Ortalama 1 senedir yazılım ve geliştirme ile ilgileniyorum. Sizlere geliştirdiğim projeleri ve dosyalarını tanıtmaktan memnuniyet duyuyorum. Yazılımın yanı sıra 2 senedir Social Media Marketing ve Social Media Managment olarak hizmet vermekteyim. Benimle çalışmak için; salihkayatemir@gmail.com veya https://salihkayatemir.com.tr/ adresinden sosyal medya hesaplarımla iletişime geçebilirsiniz.
 
 ### Benimle İletişime Geç!
-[<img align="left" alt="kadirfirat.com" width="22px" src="https://unpkg.com/simple-icons@v6/icons/discord.svg" />](https://discord.gg/ptFxZRBt4t)
-[<img align="left" alt="kadirfirat.com" width="22px" src="https://unpkg.com/simple-icons@6.23.0/icons/gmail.svg" />](mailto:salihkayatemir@gmail.com)
-[<img align="left" alt="kadirfirat.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://salihkayatemir.cf)
+[<img align="left" alt="x" width="22px" src="https://unpkg.com/simple-icons@v6/icons/discord.svg" />](https://discord.gg/ptFxZRBt4t)
+[<img align="left" alt="x" width="22px" src="https://unpkg.com/simple-icons@6.23.0/icons/gmail.svg" />](mailto:salihkayatemir@gmail.com)
+[<img align="left" alt="x" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://salihkayatemir.cf)
 <br />
 
 ### Languages and Tools:
