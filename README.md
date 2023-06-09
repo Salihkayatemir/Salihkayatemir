@@ -5,7 +5,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/541573707337039904)](https://discord.com/users/541573707337039904)
 
 ####  
-> • Ortalama 2 senedir yazılım ve geliştirme ile ilgileniyorum. Sizlere geliştirdiğim projeleri ve dosyalarını tanıtmaktan memnuniyet duyuyorum. Yazılımın yanı sıra 2.5 senedir Social Media Marketing ve Social Media Managment olarak hizmet vermekteyim. Benimle çalışmak için; salihkayatemir@gmail.com veya https://lnk.net.tr/rage adresinden sosyal medya hesaplarımla iletişime geçebilirsiniz.
+> • Ortalama 2 senedir yazılım ve geliştirme ile ilgileniyorum. Sizlere geliştirdiğim projeleri ve dosyalarını tanıtmaktan memnuniyet duyuyorum. Yazılımın yanı sıra 2.5 senedir Social Media Marketing ve Social Media Managment olarak hizmet vermekteyim. Benimle çalışmak için; salihkayatemir@gmail.com veya https://instagram.com/salihkayatemir adresinden sosyal medya hesaplarımla iletişime geçebilirsiniz.
 
 ### Benimle İletişime Geç!
 [<img align="left" alt="x" width="22px" src="https://unpkg.com/simple-icons@v6/icons/discord.svg" />](https://discord.gg/ptFxZRBt4t)
@@ -22,12 +22,6 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-
-
-
 
 <br />
 <br />
