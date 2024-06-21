@@ -8,9 +8,8 @@
 > • Ortalama 2 senedir yazılım ve geliştirme ile ilgileniyorum. Sizlere geliştirdiğim projeleri ve dosyalarını tanıtmaktan memnuniyet duyuyorum. Yazılımın 5 aydır Unreal Engine moturundan C++ ile oyunlar geliştiriyorum. Benimle çalışmak için; salihkayatemir@gmail.com veya https://instagram.com/salihkayatemir adresinden sosyal medya hesaplarımla iletişime geçebilirsiniz.
 
 ### Benimle İletişime Geç!
-[<img align="left" alt="x" width="22px" src="https://unpkg.com/simple-icons@v6/icons/discord.svg" />](https://discord.gg/ptFxZRBt4t)
+[<img align="left" alt="x" width="22px" src="https://unpkg.com/simple-icons@v6/icons/discord.svg" />](https://discord.gg/pKMktE6zMB)
 [<img align="left" alt="x" width="22px" src="https://unpkg.com/simple-icons@6.23.0/icons/gmail.svg" />](mailto:salihkayatemir@gmail.com)
-[<img align="left" alt="x" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://lnk.net.tr/rage)
 <br />
 
 ### Languages and Tools:
