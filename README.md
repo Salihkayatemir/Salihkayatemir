@@ -9,7 +9,7 @@
 
 ### Benimle İletişime Geç!
 [Discord](https://discord.gg/pKMktE6zMB)
-[<img align="left" alt="x" width="22px" src="https://unpkg.com/simple-icons@6.23.0/icons/gmail.svg" />](mailto:salihkayatemir@gmail.com)
+[E-mail](mailto:salihkayatemir@gmail.com)
 <br />
 
 ### Languages and Tools:
@@ -19,9 +19,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
 <br />
 <br />
 
