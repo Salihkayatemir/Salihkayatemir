@@ -1,4 +1,4 @@
-# Selam, ben [Salih](https://www.salihkayatemir.cf) :cloud:
+# Selam, ben Salih :cloud:
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right" widht="200" height="200">
 
