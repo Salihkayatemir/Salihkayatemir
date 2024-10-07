@@ -5,7 +5,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/541573707337039904)](https://discord.com/users/541573707337039904)
 
 ####  
-> • Ortalama 2 senedir yazılım ve geliştirme ile ilgileniyorum. Sizlere geliştirdiğim projeleri ve dosyalarını tanıtmaktan memnuniyet duyuyorum. Yazılımın 5 aydır Unreal Engine moturundan C++ ile oyunlar geliştiriyorum. Benimle çalışmak için; salihkayatemir@gmail.com veya https://instagram.com/salihkayatemir adresinden sosyal medya hesaplarımla iletişime geçebilirsiniz.
+> • Yazılım ile ilgilenmeyi ve oyunlar geliştirmeyi seviyorum. Sizlere geliştirdiğim projeleri ve dosyalarını tanıtmaktan memnuniyet duyuyorum. Benimle çalışmak için; salihkayatemir@gmail.com veya [Discord](https://discord.gg/pKMktE6zMB) adresinden iletişime geçebilirsiniz.
 
 ### Benimle İletişime Geç!
 [Discord](https://discord.gg/pKMktE6zMB)
